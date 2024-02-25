@@ -1,0 +1,13 @@
+div {
+  display: flex;
+}
+
+span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(0, 81, 128);
+  border: 2px solid rgb(78, 78, 78);
+}
