@@ -1,0 +1,22 @@
+.kotak {
+  display: flex;
+  width: 80px;
+  height: 80px;
+  background-color: rgb(0, 81, 128);
+  border: 2px solid rgb(78, 78, 78);
+}
+.kotak h2 {
+  margin: auto;
+}
+
+.k1 {
+  background-color: royalblue;
+}
+
+.k2 {
+  background-color: white;
+}
+
+.row {
+  display: flex;
+}
